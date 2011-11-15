@@ -1,0 +1,24 @@
+This is a series of batch files that will install Ubuntu onto the TF101. All kernel builds and Ubuntu filesystems were used from lilstevie's post on Ubuntu on the tf ( http://forum.xda-developers.com/showthread.php?t=1191141 ).
+
+I am working on a GUI version but is on standby until i can get the basic batch files to install properly. If you find any problem with my files please let me know.
+
+Under Pictures you will find screen shots of the latest gui. I will not release the gui until it works properly. Also if anyone has experience in coding VB let me know. I could use a hand.
+
+But thanks everyone who has put into this project in hole. Everyone that contributed to lil stevies thread along with every tool that is used.
+
+*Working
+	Export partition table - CLI - GUI
+	Change bootable partition - CLI GUI
+	NVFlash - CLI
+
+*Not Working
+	Boot - Transfers files, but hangs at asus logo.
+	ADB/GUI
+
+NVFLASH
+
+nvflash is the intellectual property of nvidia, and remains the property of nvidia. Any questions or queries regarding the usage and licence of nvflash should be directed to nvidia.
+
+abootimg
+
+abootimg is by Gilles Grandou <gilles@grandou.net> and is unmodified. The source is available from online at http://gitorious.org/ac100/abootimg 
